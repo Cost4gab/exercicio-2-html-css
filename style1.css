@@ -1,0 +1,24 @@
+
+    h1 { font-family: Arial, Helvetica, sans-serif;
+        font-size: xx-large;
+    }
+
+    body {background-color: rgba(115, 121, 119, 0.603);
+        margin: 5% ;
+        border: 10%;
+        text-align: center;
+    }
+
+    h2 {font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;}
+
+    .divtexto {font-size: larger;}
+
+    .divmatematica {font-family: fantasy;
+    margin-bottom: 10%;
+    }
+
+    img{margin-top: 10%;}
+
+    footer{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
